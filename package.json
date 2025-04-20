@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "interpreter": "Sh",
   "entrypoint": "main.sh",
+  "is_library": false,
   "install": {
     "setup_script": "install.sh",
     "register_to_environment_tool": false
