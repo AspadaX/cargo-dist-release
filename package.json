@@ -2,6 +2,7 @@
   "name": "cargo-dist-release",
   "description": "A shell script program that allows automating the release process of cargo-dist",
   "version": "0.1.0",
+  "interpreter": "sh",
   "entrypoint": "main.sh",
   "install": {
     "setup_script": "install.sh",
